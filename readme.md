@@ -1,3 +1,5 @@
+# library_system
+database introduction 2025Spring midterm pj
 # 图书销售管理系统
 
 本实验实现的是一个图书销售管理系统的设计和实现。某书城需要一套图书管理系统对图书的进货、销售、财务等方面进行统一管理。
